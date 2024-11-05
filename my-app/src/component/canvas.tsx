@@ -10,3 +10,6 @@ export type Test2 = {
   email: string;
   password: string;
 };
+export type kdjsf = {
+  fasjfkhjsa: number;
+};
